@@ -16,6 +16,6 @@
 + [Systems Biology-Uri Alon](https://www.youtube.com/watch?v=N6VZeWuME_A&list=PLLbr-B8cNbo6v4kc68JowzUeAYdh6gdQH)
 
 ### Related Links
-+ [Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics)By PKU Gao lab
-+ [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/)By THU Lu lab
++ [Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics)by PKU Gao lab
++ [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/)by THU Lu lab
 + [OSSU Bioinformatics](https://github.com/ossu/bioinformatics)
